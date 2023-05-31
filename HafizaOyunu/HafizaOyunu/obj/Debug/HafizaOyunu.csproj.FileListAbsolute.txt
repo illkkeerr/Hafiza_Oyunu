@@ -1,0 +1,11 @@
+C:\Users\DellPc\Desktop\Akay Yazılım\HafizaOyunu\HafizaOyunu\bin\Debug\HafizaOyunu.exe.config
+C:\Users\DellPc\Desktop\Akay Yazılım\HafizaOyunu\HafizaOyunu\bin\Debug\HafizaOyunu.exe
+C:\Users\DellPc\Desktop\Akay Yazılım\HafizaOyunu\HafizaOyunu\bin\Debug\HafizaOyunu.pdb
+C:\Users\DellPc\Desktop\Akay Yazılım\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.Form1.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.Properties.Resources.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.csproj.GenerateResource.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.exe
+C:\Users\DellPc\Desktop\Akay Yazılım\HafizaOyunu\HafizaOyunu\obj\Debug\HafizaOyunu.pdb
